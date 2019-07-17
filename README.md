@@ -6,11 +6,11 @@ So please remove unnecessary lb from ec2.tf file.
 
 This was tested when the terraform version is Terraform v0.12.4
 
-terraform init
-terraform validate
-terraform plan
-terraform apply
-terraform show
+terraform init/n
+terraform validate/n
+terraform plan/n
+terraform apply/n
+terraform show/n
 terraform destroy
 
 Resource: https://techbloc.net/archives/3195
